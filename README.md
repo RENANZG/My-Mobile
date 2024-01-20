@@ -339,6 +339,9 @@ Simple Calculator - A calculator for your quick calculations.
 Simple Calendar - Be notified of the important moments in your life.
 Simple Clock - A combination of a clock, alarm, stopwatch and timer.
 
+<h4>File Manager</h4>
+
+
 <h4>Browsers</h4>
 
 Bromite - https://www.bromite.org
