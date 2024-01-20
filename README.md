@@ -333,70 +333,75 @@ https://getfreesmsnumber.com</br>
 
 <h4>Simple Apps</h4
 
-Simple Dialer - A handy phone call manager with phonebook, number blocking and multi-SIM support.
-Simple Contacts - A premium app for contact management with no ads, supports groups and favorites.
-Simple Calculator - A calculator for your quick calculations.
-Simple Calendar - Be notified of the important moments in your life.
-Simple Clock - A combination of a clock, alarm, stopwatch and timer.
+• Simple Dialer - A handy phone call manager with phonebook, number blocking and multi-SIM support.
+• Simple Contacts - A premium app for contact management with no ads, supports groups and favorites.
+• Simple Calculator - A calculator for your quick calculations.
+• Simple Calendar - Be notified of the important moments in your life.
+• Simple Clock - A combination of a clock, alarm, stopwatch and timer.
 
 <h4>File Manager</h4>
 
+• Amaze File Manager - 
+• Material Files - 
+• Ghost Commander - 
 
 <h4>Browsers</h4>
 
-Bromite - https://www.bromite.org
-Ungoogled Chromium Android -https://uc.droidware.info
-Firefox - https://play.google.com/store/apps/details?id=org.mozilla.firefox&hl=en_US&gl=US
+• Bromite - https://www.bromite.org
+• Ungoogled Chromium Android -https://uc.droidware.info
+• Firefox - https://play.google.com/store/apps/details?id=org.mozilla.firefox&hl=en_US&gl=US
 
 <h4>Personalisation</h4>
 
-Neo-Launcher - https://github.com/NeoApplications/Neo-Launcher
-Lawnchair 2 - https://lawnchair.app
+• Neo-Launcher - https://github.com/NeoApplications/Neo-Launcher
+
+• Lawnchair 2 - https://lawnchair.app
 Continuation of Lawnchair 1; Pixel features; fork of Launcher3.
-Lawndesk - https://github.com/renzhn/Lawndesk
+
+• Lawndesk - https://github.com/renzhn/Lawndesk
 Fork of Lawnchair V2; app-drawer-free launcher.
-Librechair - Degoogled; fork of Lawnchair V2 & Launcher3.
-LawnChair 12 - https://github.com/LawnchairLauncher/lawnchair/releases
+
+• Librechair - Degoogled; fork of Lawnchair V2 & Launcher3.
+
+• LawnChair 12 - https://github.com/LawnchairLauncher/lawnchair/releases
 Contininuation of LawnChair V2 with support for QuickSwitch and more. Includes a nice simple design that mimics the design of Google's Pixel launcher. Also includes in app Monet'like theming with themed icons(optional with a separate package called LawnIcons) and wallpaper based theming.
 
 <h4>E-mail</h4>
 
-K-9 Mail - https://k9mail.app/
+• K-9 Mail - https://k9mail.app
 
 <h4>Navigation</h4>
 
-OsmAnd - https://osmand.net/
-An open-source map and navigation app for Android (and iOS) that uses OpenStreetMap map and Wikipedia databases.
-StreetComplete - https://f-droid.org/en/packages/de.westnordost.streetcomplete/
-OpenStreetMap surveyor app. This app finds incomplete and extendable data in your vicinity and displays it on a map as markers. Each of those is solvable by answering a simple question to complete the info on site.
+• StreetComplete - https://f-droid.org/en/packages/de.westnordost.streetcomplete/
+• OsmAnd - https://osmand.net/
 
 <h4>Cameras</h4>
 
-Open Camera - https://opencamera.sourceforge.io - Camera app with DSLR features.
-Simple Camera - https://f-droid.org/en/packages/com.simplemobiletools.camera - A camera with flash, zoom and no ads.
+• Open Camera - https://opencamera.sourceforge.io
+• Simple Camera - https://f-droid.org/en/packages/com.simplemobiletools.camera
 
 <h4>Streaming</h4>
 
-NewPipe - Lightweight Google-free YouTube client.
-LibreTube - An alternative YouTube front end, for Android.
+• NewPipe - Lightweight Google-free YouTube client.
+• LibreTube - An alternative YouTube front end, for Android.
 
 <h4>Media Players</h4>
 
-mpv - https://mpv.io/ 
-VLC - https://www.videolan.org/
+• mpv - https://mpv.io/ 
+• VLC - https://www.videolan.org/
 
 <h4>Office</h4>
 
-Collabora Office - https://www.collaboraoffice.com/release-news/collabora-office-android-beta/ 
-CryptPad - Alternative to Google Docs 
+• Collabora Office - https://www.collaboraoffice.com/release-news/collabora-office-android-beta/ 
+• CryptPad - Alternative to Google Docs 
 
 <h4>Advertisement blocking</h4>
-AdAway - Ad blocker for Android using the hosts file (Root permission is optional but it is recommended).
-Blokada - Ad blocker for Android using the VPN API.
-DNSfilter - Ad blocker for Android using a VPN, supports hosts files.
-DNS66 - DNS66 blocks advertisements on Android by intercepting DNS requests using Android's VPN layer and blocking requests for blacklisted hosts.
-NetGuard - NetGuard provides simple and advanced ways to block access to the internet - no root required.
-RethinkDNS + Firewall - DNS over HTTPS / DNS over Tor / DNSCrypt client, firewall, and connection tracker for Android.
+• AdAway - Ad blocker for Android using the hosts file (Root permission is optional but it is recommended).
+• Blokada - Ad blocker for Android using the VPN API.
+• DNSfilter - Ad blocker for Android using a VPN, supports hosts files.
+• DNS66 - DNS66 blocks advertisements on Android by intercepting DNS requests using Android's VPN layer and blocking requests for blacklisted hosts.
+• NetGuard - NetGuard provides simple and advanced ways to block access to the internet - no root required.
+• RethinkDNS + Firewall - DNS over HTTPS / DNS over Tor / DNSCrypt client, firewall, and connection tracker for Android.
 
 <!-- ################################## -->
 <br>
@@ -409,9 +414,9 @@ RethinkDNS + Firewall - DNS over HTTPS / DNS over Tor / DNSCrypt client, firewal
 • https://github.com/mastodon/mastodon</br>
 • https://en.wikipedia.org/wiki/Mastodon_(social_network)</br>
 
-- Alternative to Twitter 
+• Nitter - Alternative to Twitter 
 
-Diaspora - Alternative to Facebook 
+• Diaspora - Alternative to Facebook 
 
 <!-- ################################## -->
 <br>
