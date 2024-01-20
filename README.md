@@ -225,6 +225,7 @@ https://xperylab.medium.com/the-dark-phones-encrochat-criminals-are-building-the
 <h4>Keyboards</h4>
 • Florisboard (Beta) - https://github.com/florisboard/florisboard</br>
 • AnySoftKeyboard - https://anysoftkeyboard.github.io</br>
+• HackersKeyboard - https://github.com/klausw/hackerskeyboard</br>
 
 <h4>Others</h4>
 • EtchDroid - https://github.com/EtchDroid/EtchDroid</br>
@@ -245,10 +246,6 @@ https://xperylab.medium.com/the-dark-phones-encrochat-criminals-are-building-the
 • The phone with bank applications is in the safe
 • Adjusting limits is also important
 
-
-<h4>Others</h4>
-• 
-
 <!-- ################################## -->
 <br>
 <hr>
@@ -264,7 +261,6 @@ https://www.rst.software/blog/xmpp-vs-matrix-vs-mqtt-which-instant-messaging-pro
 <h4>Chats</h4>
 
 <img src=".data/ComApps.png" width="640" height="380"/>
-
 
 <h5>• XMPP</h5>
 • https://github.com/profanity-im/profanity</br>
@@ -309,100 +305,6 @@ https://code.briarproject.org/briar/briar</br>
 • SilentLink - Instant eSIM - https://silent.link</br>
 • Textverified - https://www.textverified.com</br>
 
-
-
-<h4>Simple Apps</h4
-
-Simple Dialer - A handy phone call manager with phonebook, number blocking and multi-SIM support.
-Simple Contacts - A premium app for contact management with no ads, supports groups and favorites.
-Simple Calculator - A calculator for your quick calculations.
-Simple Calendar - Be notified of the important moments in your life.
-Simple Clock - A combination of a clock, alarm, stopwatch and timer.
-
-Keyboards
-Keyboard with tons of features.
-
-FlorisBoard - https://github.com/florisboard/florisboard
-FlorisBoard is a free and open-source keyboard for Android 6.0+ devices. It aims at being modern, user-friendly and customizable while fully respecting your privacy. Currently in alpha/early-beta state.
-
-HackersKeyboard - https://github.com/klausw/hackerskeyboard
-This keyboard is especially useful if you use ConnectBot for SSH access. It provides working Tab/Ctrl/Esc keys, and arrow keys.
-
-Browsers
-Bromite - https://www.bromite.org/
-Based on Chromium; built-in adblocking; enhanced privacy; degoogled.
-Ungoogled Chromium Android -https://uc.droidware.info/
-It is the Android version of Ungoogle-Chromium. A lightweight approach to removing Google web service dependency.
-
-Firefox - https://play.google.com/store/apps/details?id=org.mozilla.firefox&hl=en_US&gl=US
-The official release of Firefox for Android.
-
-Personalisation
-
-Neo-Launcher - https://github.com/NeoApplications/Neo-Launcher
-
-Lawnchair 2 - https://lawnchair.app/
-Continuation of Lawnchair 1; Pixel features; fork of Launcher3.
-
-Lawndesk - https://github.com/renzhn/Lawndesk
-Fork of Lawnchair V2; app-drawer-free launcher.
-Librechair - Degoogled; fork of Lawnchair V2 & Launcher3.
-
-LawnChair 12 - https://github.com/LawnchairLauncher/lawnchair/releases
-Contininuation of LawnChair V2 with support for QuickSwitch and more. Includes a nice simple design that mimics the design of Google's Pixel launcher. Also includes in app Monet'like theming with themed icons(optional with a separate package called LawnIcons) and wallpaper based theming.
-
-
-Media Players 
-mpv - https://mpv.io/ 
-VLC - https://www.videolan.org/
-
-
-Streaming
-
-NewPipe - Lightweight Google-free YouTube client.
-LibreTube - An alternative YouTube front end, for Android.
-
-E-mail
-
-K-9 Mail - https://k9mail.app/
-
-K-9 Mail is an open source email client focused on making it easy to chew through large volumes of email.
-
-Office
-
-Collabora Office - https://www.collaboraoffice.com/release-news/collabora-office-android-beta/ 
-Office suite available for Android, GNU/Linux, iOS, macOS, Windows.
-
-CryptPad - Alternative to Google Docs 
-
-Navigation
-
-OsmAnd - https://osmand.net/
-An open-source map and navigation app for Android (and iOS) that uses OpenStreetMap map and Wikipedia databases.
-
-StreetComplete - https://f-droid.org/en/packages/de.westnordost.streetcomplete/
-OpenStreetMap surveyor app. This app finds incomplete and extendable data in your vicinity and displays it on a map as markers. Each of those is solvable by answering a simple question to complete the info on site.
-
-
-Cameras
-
-Open Camera - https://opencamera.sourceforge.io/
-Camera app with DSLR features.
-
-Simple Camera - https://f-droid.org/en/packages/com.simplemobiletools.camera/
-A camera with flash, zoom and no ads.
-
-
-Advertisement blocking
-AdAway - Ad blocker for Android using the hosts file (Root permission is optional but it is recommended).
-Blokada - Ad blocker for Android using the VPN API.
-DNSfilter - Ad blocker for Android using a VPN, supports hosts files.
-DNS66 - DNS66 blocks advertisements on Android by intercepting DNS requests using Android's VPN layer and blocking requests for blacklisted hosts.
-NetGuard - NetGuard provides simple and advanced ways to block access to the internet - no root required.
-RethinkDNS + Firewall - DNS over HTTPS / DNS over Tor / DNSCrypt client, firewall, and connection tracker for Android.
-
-
-
 <h4>SMS Verify</h4>
 http://hs3x.com</br>
 http://smsget.net</br>
@@ -427,13 +329,84 @@ https://getfreesmsnumber.com</br>
 <br>
 <hr>
 
+<h3>OTHERS APPS</h3>
+
+<h4>Simple Apps</h4
+
+Simple Dialer - A handy phone call manager with phonebook, number blocking and multi-SIM support.
+Simple Contacts - A premium app for contact management with no ads, supports groups and favorites.
+Simple Calculator - A calculator for your quick calculations.
+Simple Calendar - Be notified of the important moments in your life.
+Simple Clock - A combination of a clock, alarm, stopwatch and timer.
+
+<h4>Browsers</h4>
+
+Bromite - https://www.bromite.org
+Ungoogled Chromium Android -https://uc.droidware.info
+Firefox - https://play.google.com/store/apps/details?id=org.mozilla.firefox&hl=en_US&gl=US
+
+<h4>Personalisation</h4>
+
+Neo-Launcher - https://github.com/NeoApplications/Neo-Launcher
+Lawnchair 2 - https://lawnchair.app
+Continuation of Lawnchair 1; Pixel features; fork of Launcher3.
+Lawndesk - https://github.com/renzhn/Lawndesk
+Fork of Lawnchair V2; app-drawer-free launcher.
+Librechair - Degoogled; fork of Lawnchair V2 & Launcher3.
+LawnChair 12 - https://github.com/LawnchairLauncher/lawnchair/releases
+Contininuation of LawnChair V2 with support for QuickSwitch and more. Includes a nice simple design that mimics the design of Google's Pixel launcher. Also includes in app Monet'like theming with themed icons(optional with a separate package called LawnIcons) and wallpaper based theming.
+
+<h4>E-mail</h4>
+
+K-9 Mail - https://k9mail.app/
+
+<h4>Navigation</h4>
+
+OsmAnd - https://osmand.net/
+An open-source map and navigation app for Android (and iOS) that uses OpenStreetMap map and Wikipedia databases.
+StreetComplete - https://f-droid.org/en/packages/de.westnordost.streetcomplete/
+OpenStreetMap surveyor app. This app finds incomplete and extendable data in your vicinity and displays it on a map as markers. Each of those is solvable by answering a simple question to complete the info on site.
+
+<h4>Cameras</h4>
+
+Open Camera - https://opencamera.sourceforge.io - Camera app with DSLR features.
+Simple Camera - https://f-droid.org/en/packages/com.simplemobiletools.camera - A camera with flash, zoom and no ads.
+
+<h4>Streaming</h4>
+
+NewPipe - Lightweight Google-free YouTube client.
+LibreTube - An alternative YouTube front end, for Android.
+
+<h4>Media Players</h4>
+
+mpv - https://mpv.io/ 
+VLC - https://www.videolan.org/
+
+<h4>Office</h4>
+
+Collabora Office - https://www.collaboraoffice.com/release-news/collabora-office-android-beta/ 
+CryptPad - Alternative to Google Docs 
+
+<h4>Advertisement blocking</h4>
+AdAway - Ad blocker for Android using the hosts file (Root permission is optional but it is recommended).
+Blokada - Ad blocker for Android using the VPN API.
+DNSfilter - Ad blocker for Android using a VPN, supports hosts files.
+DNS66 - DNS66 blocks advertisements on Android by intercepting DNS requests using Android's VPN layer and blocking requests for blacklisted hosts.
+NetGuard - NetGuard provides simple and advanced ways to block access to the internet - no root required.
+RethinkDNS + Firewall - DNS over HTTPS / DNS over Tor / DNSCrypt client, firewall, and connection tracker for Android.
+
+<!-- ################################## -->
+<br>
+<hr>
+
 <h3>SOCIAL NETWORKING</h3>
 
-<h4>Mastodon - Alternative to Twitter </h4> 
+<h4>Mastodon</h4> 
 • https://joinmastodon.org</br>
 • https://github.com/mastodon/mastodon</br>
 • https://en.wikipedia.org/wiki/Mastodon_(social_network)</br>
 
+- Alternative to Twitter 
 
 Diaspora - Alternative to Facebook 
 
