@@ -13,14 +13,11 @@
 
 <blockquote><h3>"No matter who you are, every day of your life, you're sitting in a database just ready to be looked at." (Edward Snowden)</h3></blockquote>
 
-<p align="center"><img src=".data/telephone_1986_-_andy_warhol_830px.png" title="Telephone (1986) - Andy Warhol"/></p>
-
-</div>
+<p align="center"><img src="[.data/telephone_1986_-_andy_warhol_830px.png](https://github.com/RENANZG/My-Android-Mobile/assets/53377291/d9cebad9-80a1-4b30-92a7-ad0084cd3efc)" title="Telephone (1986) - Andy Warhol"/></p>
 
 <hr>
 
 <!-- ################################################# -->
-
 
 <h3>HARDENING REFERENCES</h3>
 
