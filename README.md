@@ -13,7 +13,7 @@
 
 <blockquote><h3>"No matter who you are, every day of your life, you're sitting in a database just ready to be looked at." (Edward Snowden)</h3></blockquote>
 
-<p align="center"><img src="[.data/telephone_1986_-_andy_warhol_830px.png](https://github.com/RENANZG/My-Android-Mobile/assets/53377291/d9cebad9-80a1-4b30-92a7-ad0084cd3efc)" title="Telephone (1986) - Andy Warhol"/></p>
+<p align="center"><img src=".data/telephone_1986_-_andy_warhol_830px.png" title="Telephone (1986) - Andy Warhol"/></p>
 
 <hr>
 
@@ -48,7 +48,7 @@
 <br>
 <hr>
 
-<h3>ANDROID CUSTOM ROM</h3>
+<h3>CUSTOM ROMS</h3>
 
 <strong><a href="https://mobian-project.org/">Mobian</a></strong> <a href="https://wiki.debian.org/Mobian/Devices">(Supported Devices)</a> - A Debian derivative for mobile devices</br>
 <strong><a href="https://ubuntu-touch.io/">Ubuntu-Touch</a></strong> <a href="https://devices.ubuntu-touch.io/">(Supported Devices)</a> - We are building privacy and freedom focussed mobile software</br>
@@ -62,7 +62,7 @@
 <strong><a href="https://www.kali.org/get-kali/#kali-mobile">Kali Mobile</a></strong> <a href="https://www.kali.org/get-kali/#kali-mobile">(Supported Devices)</a> - Kali NetHunter is a free &amp; Open-source Mobile Penetration Testing Platform</br>
 <strong><a href="https://github.com/climberhunt/PiPhone">PiPhone</a></strong> - A DIY cellphone based on Raspberry Pi</br>
 
-<h4>Others custom roms:</h4>
+<h4>Other custom roms:</h4>
 
 Crdroid - https://crdroid.net/</br>
 Paranoid Android - https://paranoidandroid.co/</br>
@@ -84,8 +84,6 @@ Dirtyunicorns - https://dirtyunicorns.com/</br>
 Aosip - http://aosip.weebly.com/</br>
 Xiaomifirmwareupdater - https://xiaomifirmwareupdater.com/miui/</br>
 
-<p>*Best choice for intermediate security (2023): GrapheneOS (Google Pixel) that uses hardened malloc, sandboxed play services and communicate via Matrix Protocol</p></br>
-
 <!-- ################################## -->
 <br>
 <hr>
@@ -101,11 +99,14 @@ https://github.com/nekohasekai/lockup</br>
 <br>
 <hr>
 
-<h3>PHONE TRACKING</h3>
+<h3>BURNER PHONES</h3>
 
-<p><em>GSM network etc are highly traceable, even a turned off cell phone is not safer.</em></p>
+<p><em>GSM network etc are highly traceable, even a turned off cell phone is no longer safe.</em></p>
 
-<p>"The effective use of burner phones to hide from government surveillance requires, at a minimum: not reusing either SIM cards or devices; not carrying different devices together; not creating a physical association between the places where different devices are used; and not calling or being called by the same people when using different devices. (This isn't necessarily a complete list; for example, we haven't considered the risk of physical surveillance of the place where the phone was sold, or the places where it's used, or the possibility of software to recognize a particular person's voice as an automated method for determining who is speaking through a particular phone."</p>
+<p>"The effective use of burner phones to hide from government surveillance requires, at a minimum: not reusing either SIM cards or devices; not carrying different devices together; not creating a physical association between the places where different devices are used; and not calling or being called by the same people when using different devices. This isn't necessarily a complete list; for example, we haven't considered the risk of physical surveillance of the place where the phone was sold, or the places where it's used, or the possibility of software to recognize a particular person's voice as an automated method for determining who is speaking through a particular phone."</p>
+
+• <a href="https://www.whonix.org/wiki/Other_Operating_Systems" target="_blank">• Whonix - Anonymize Other Operating Systems</a><br>
+• <a href="https://www.wired.com/story/how-to-use-burner-phone" target="_blank">• Wired - How to use burner phone</a></br>
 
 <!-- ################################## -->
 <br>
@@ -116,15 +117,6 @@ https://github.com/nekohasekai/lockup</br>
 • Encrochat case</br>
 The dark phones (Encrochat) — Criminals are building their own communication system</br>
 https://xperylab.medium.com/the-dark-phones-encrochat-criminals-are-building-their-own-communication-system-474f3aeef759</br>
-
-<!-- ################################## -->
-<br>
-<hr>
-
-<h3>BURNER PHONES</h3>
-
-•    <a href="https://www.whonix.org/wiki/Other_Operating_Systems" target="_blank">• Whonix - Anonymize Other Operating Systems</a><br>
-• https://www.wired.com/story/how-to-use-burner-phone</br>
 
 <!-- ################################## -->
 <br>
@@ -175,7 +167,7 @@ https://xperylab.medium.com/the-dark-phones-encrochat-criminals-are-building-the
 • DivestOS - https://divestos.org</br>
 • Aurora Store - https://auroraoss.com</br>
 
-<p>Note: https://www.privacyguides.org/en/android/#f-droid</p>
+<p>*Note: https://www.privacyguides.org/en/android/#f-droid</p>
 
 <!-- ################################## -->
 <br>
@@ -236,12 +228,7 @@ https://xperylab.medium.com/the-dark-phones-encrochat-criminals-are-building-the
 
 <h3>MOBILE SECURITY</h3>
 
-<h4>Password</h4>
-• It's obvious that you don't use a password pattern
-
-<h4>Two Phones</h4>
-• The phone with bank applications is in the safe
-• Adjusting limits is also important
+<h4>It doesn't exist. Do not use it.</h4>
 
 <!-- ################################## -->
 <br>
@@ -284,7 +271,6 @@ https://threema.ch/en</br>
 • https://github.com/oxen-io/session-android</br>
 • https://arxiv.org/pdf/2002.04609.pdf
 • https://github.com/GNU-Linux-libre/Awesome-Session-Group-List</br>
-
 
 <h5>• Signal</h5>
 • https://signal.org/android/apk/</br>
@@ -330,75 +316,75 @@ https://getfreesmsnumber.com</br>
 
 <h4>Simple Apps</h4
 
-• Simple Dialer - A handy phone call manager with phonebook, number blocking and multi-SIM support.
-• Simple Contacts - A premium app for contact management with no ads, supports groups and favorites.
-• Simple Calculator - A calculator for your quick calculations.
-• Simple Calendar - Be notified of the important moments in your life.
-• Simple Clock - A combination of a clock, alarm, stopwatch and timer.
+• Simple Dialer - A handy phone call manager with phonebook, number blocking and multi-SIM support.<br>
+• Simple Contacts - A premium app for contact management with no ads, supports groups and favorites.<br>
+• Simple Calculator - A calculator for your quick calculations.<br>
+• Simple Calendar - Be notified of the important moments in your life.<br>
+• Simple Clock - A combination of a clock, alarm, stopwatch and timer.<br>
 
 <h4>File Manager</h4>
 
-• Amaze File Manager - 
-• Material Files - 
-• Ghost Commander - 
+• Amaze File Manager - <br>
+• Material Files - <br>
+• Ghost Commander - <br>
 
 <h4>Browsers</h4>
 
-• Bromite - https://www.bromite.org
-• Ungoogled Chromium Android -https://uc.droidware.info
-• Firefox - https://play.google.com/store/apps/details?id=org.mozilla.firefox&hl=en_US&gl=US
+• Bromite - https://www.bromite.org<br>
+• Ungoogled Chromium Android -https://uc.droidware.info<br>
+• Firefox - https://play.google.com/store/apps/details?id=org.mozilla.firefox&hl=en_US&gl=US<br>
 
 <h4>Personalisation</h4>
 
-• Neo-Launcher - https://github.com/NeoApplications/Neo-Launcher
+• Neo-Launcher - https://github.com/NeoApplications/Neo-Launcher<br>
 
-• Lawnchair 2 - https://lawnchair.app
-Continuation of Lawnchair 1; Pixel features; fork of Launcher3.
+• Lawnchair 2 - https://lawnchair.app<br>
+Continuation of Lawnchair 1; Pixel features; fork of Launcher3.<br>
 
-• Lawndesk - https://github.com/renzhn/Lawndesk
-Fork of Lawnchair V2; app-drawer-free launcher.
+• Lawndesk - https://github.com/renzhn/Lawndesk<br>
+Fork of Lawnchair V2; app-drawer-free launcher.<br>
 
-• Librechair - Degoogled; fork of Lawnchair V2 & Launcher3.
+• Librechair - Degoogled; fork of Lawnchair V2 & Launcher3.<br>
 
-• LawnChair 12 - https://github.com/LawnchairLauncher/lawnchair/releases
-Contininuation of LawnChair V2 with support for QuickSwitch and more. Includes a nice simple design that mimics the design of Google's Pixel launcher. Also includes in app Monet'like theming with themed icons(optional with a separate package called LawnIcons) and wallpaper based theming.
+• LawnChair 12 - https://github.com/LawnchairLauncher/lawnchair/releases<br>
+Contininuation of LawnChair V2 with support for QuickSwitch and more. Includes a nice simple design that mimics the design of Google's Pixel launcher. Also includes in app Monet'like theming with themed icons(optional with a separate package called LawnIcons) and wallpaper based theming.<br>
 
 <h4>E-mail</h4>
 
-• K-9 Mail - https://k9mail.app
+• K-9 Mail - https://k9mail.app<br>
 
 <h4>Navigation</h4>
 
-• StreetComplete - https://f-droid.org/en/packages/de.westnordost.streetcomplete/
-• OsmAnd - https://osmand.net/
+• StreetComplete - https://f-droid.org/en/packages/de.westnordost.streetcomplete/<br>
+• OsmAnd - https://osmand.net<br>
 
 <h4>Cameras</h4>
 
-• Open Camera - https://opencamera.sourceforge.io
-• Simple Camera - https://f-droid.org/en/packages/com.simplemobiletools.camera
+• Open Camera - https://opencamera.sourceforge.io<br>
+• Simple Camera - https://f-droid.org/en/packages/com.simplemobiletools.camera<br>
 
 <h4>Streaming</h4>
 
-• NewPipe - Lightweight Google-free YouTube client.
-• LibreTube - An alternative YouTube front end, for Android.
+• NewPipe - Lightweight Google-free YouTube client.<br>
+• LibreTube - An alternative YouTube front end, for Android.<br>
 
 <h4>Media Players</h4>
 
-• mpv - https://mpv.io/ 
-• VLC - https://www.videolan.org/
+• mpv - https://mpv.io<br>
+• VLC - https://www.videolan.org<br>
 
 <h4>Office</h4>
 
-• Collabora Office - https://www.collaboraoffice.com/release-news/collabora-office-android-beta/ 
-• CryptPad - Alternative to Google Docs 
+• Collabora Office - https://www.collaboraoffice.com/release-news/collabora-office-android-beta<br>
+• CryptPad - Alternative to Google Docs<br>
 
 <h4>Advertisement blocking</h4>
-• AdAway - Ad blocker for Android using the hosts file (Root permission is optional but it is recommended).
-• Blokada - Ad blocker for Android using the VPN API.
-• DNSfilter - Ad blocker for Android using a VPN, supports hosts files.
-• DNS66 - DNS66 blocks advertisements on Android by intercepting DNS requests using Android's VPN layer and blocking requests for blacklisted hosts.
-• NetGuard - NetGuard provides simple and advanced ways to block access to the internet - no root required.
-• RethinkDNS + Firewall - DNS over HTTPS / DNS over Tor / DNSCrypt client, firewall, and connection tracker for Android.
+• AdAway - Ad blocker for Android using the hosts file (Root permission is optional but it is recommended).<br>
+• Blokada - Ad blocker for Android using the VPN API.<br>
+• DNSfilter - Ad blocker for Android using a VPN, supports hosts files.<br>
+• DNS66 - DNS66 blocks advertisements on Android by intercepting DNS requests using Android's VPN layer and blocking requests for blacklisted hosts.<br>
+• NetGuard - NetGuard provides simple and advanced ways to block access to the internet - no root required.<br>
+• RethinkDNS + Firewall - DNS over HTTPS / DNS over Tor / DNSCrypt client, firewall, and connection tracker for Android.<br>
 
 <!-- ################################## -->
 <br>
@@ -411,9 +397,8 @@ Contininuation of LawnChair V2 with support for QuickSwitch and more. Includes a
 • https://github.com/mastodon/mastodon</br>
 • https://en.wikipedia.org/wiki/Mastodon_(social_network)</br>
 
-• Nitter - Alternative to Twitter 
-
-• Diaspora - Alternative to Facebook 
+• Nitter - Alternative to Twitter<br>
+• Diaspora - Alternative to Facebook<br>
 
 <!-- ################################## -->
 <br>
