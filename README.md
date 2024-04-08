@@ -220,7 +220,8 @@ https://xperylab.medium.com/the-dark-phones-encrochat-criminals-are-building-the
 • EtchDroid - https://github.com/EtchDroid/EtchDroid</br>
 • Android Faker - https://github.com/Android1500/AndroidFaker</br>
 • Free implementation of Play Services - https://github.com/microg/GmsCore</br>
-• Phones - https://www.gsmarena.com</br>
+• Phones Ref.- https://www.gsmarena.com</br>
+• Phones Ref.- https://www.phonescoop.com</br>
 
 <!-- ################################## -->
 <br>
