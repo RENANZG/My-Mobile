@@ -26,7 +26,8 @@
    <td align="left" valign="top" style="width: 50%">
    <a href="https://guardianproject.info" target="_blank">• Guardian Project</a><br>
    <a href="https://github.com/guardianproject" target="_blank">• Guardian Project - GitHub</a><br>
-   <a href="https://www.whonix.org/wiki/Other_Operating_Systems" target="_blank">• Whonix - Anonymize Other Operating Systems</a><br>
+   <a href="https://www.kicksecure.com/wiki/Mobile_Phone_Security" target="_blank">• Whonix - Mobile Devices Privacy and Security</a><br>
+    <a href="https://www.kicksecure.com/wiki/Mobile_Operating_System_Comparison">• Whonix - Mobile Operating System Comparison</a><br>
    <a href="https://www.whonix.org/wiki/Tips_on_Remaining_Anonymous#Avoid_(Mobile)_Phone_Verification_(Use_only_with_caution)" target="_blank">• Whonix - Avoid (Mobile) Phone Verification (Use only with caution)</a><br>
    <a href="https://source.android.com/docs/core/architecture/kernel/hardening" target="_blank">• Android - Kernel Hardening</a><br>
    <a href="https://www.cisecurity.org/benchmark/google_android" target="_blank">• Google - Android CIS Benchmark</a><br>
