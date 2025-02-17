@@ -1,0 +1,81 @@
+@Narodism
+States track our phones using the #IMEI code. But you can change it. They don't want people to know. This info is kept secret.
+
+But today I am making it public in this guide. You will get a hotspot usable with any phone that protects your IMEI from the government for $300.
+
+Your phone broadcasts 2 pieces of info: the IMEI which is tied to the phone's hardware and the IMSI which is tied to the SIM card. To change the IMSI, simply use change your SIM card every so often.
+
+The Pinephone allows you to change this number. Here's a guide to setup the phone for this. You will need a Pinephone, a micro SD card and an adapter for your computer.
+
+Terminology
+
+There are 3 storage types: SPI-NOR, eMMC and the SD card.
+
+The SPI-NOR stores the bootloader. The eMMC is internal memory for the OS. We will use the SD card to load the bootloader into the SPI-NOR.
+
+Setup the Installer Environment
+
+We install the OS to the pinephone using a tool called pmbootstrap, but it needs root access. So I instead made a VM with a USB passthrough and installed Manjaro Linux there.
+
+You can do this with virt-manager, then add a new VM with the Manjaro VM and install it. Then inside Manjaro, you can install spice guest tools for more seemless integration (optional).
+
+For the USB passthrough, I had to edit /etc/libvirt/qemu/manjaro.xml, where I added this code:
+
+<disk type='block' device='disk'>
+      <driver name='qemu' type='raw' cache='none'/>
+      <source dev='/dev/sdb'/>
+      <target dev='vdb' bus='virtio'/>
+      <address type='pci' domain='0x0000' bus='0x07' slot='0x00' function='0x0'/>
+    </disk>
+
+(replace /dev/sdb and the other details with the relevant info you need)
+
+Now when I boot the VM, I see a device called /dev/vdb which corresponds to my host computer's /dev/sdb.
+Install pmbootstrap and we're ready to go.
+
+Install PostmarketOS
+
+We will install PostmarketOS with SXMO which is a tiling WM. It's quite easy to learn, just read the userguide. Don't be lazy. But if you're a normie, fine you can use Phosh instead which is just like Android.
+
+Using pmbootstrap
+
+Now connect the Pinephone Pro to your computer and put it in the mount mode (blue light), and it should appear on your computer with lsblk.
+
+Inside the Manjaro VM, perform the install:
+
+pmbootstrap zap
+pmbootstrap init
+pmbootstrap install --fde --sdcard=/dev/vdb ----cipher aes-cbc-essiv:sha256
+
+We need the cipher option due to bug #2916 on postmarketOS bug tracker.
+
+Install Bootloader
+
+Now on your normal machine, put the tow-boot installer. Download tow-boot's spi.installer.img and dd to your SD card. Follow the SPI installer instructions.
+
+Now your phone should boot pmOS.
+
+Tweaks
+
+Disable suspend in System Menu -> Config -> Auto-suspend / Auto-screen-off.
+
+Optionally install an Arch Linux chroot for access to more packages you might not have in pmOS.
+
+IMEI Changing
+
+Now for the juicy part of the guide.
+
+SSH is enabled by default, so SSH in. On your phone, open a terminal and type ip a to find your IP. Then just use ssh username@XXXX. Now sudo su as root. Create this file /root/.bashrc.
+
+alias show-imei="echo 'AT+EGMR=0,7' | atinout - /dev/EG25.AT /dev/stdout"
+
+function _set_imei() {
+    IMEI=$1
+    echo "AT+EGMR=1,7,\"$IMEI\"" | atinout - /dev/EG25.AT /dev/stdout
+}
+# Vanity, I prefer - to _ for cmds ;)
+alias set-imei=_set_imei
+
+Now reload your shell using source ~/.bashrc. You now have the commands show-imei and set-imei XXXXX.
+
+To get the IMEI code, we will impersonate legit devices. I scraped all the TAC code prefixes from public DBs and made a little util for that. Download it from github: narodnik/immi. You simply run ./imeichanger.py and it gives you an IMEI code you can put into set-imei.
